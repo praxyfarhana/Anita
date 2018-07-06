@@ -1,0 +1,36 @@
+  .banner {
+           background-image:url("file:///home/student/Desktop/Anita/ip2/assets/backgrounds/landing.jpg");
+           background-size: cover;
+           text-align: center;
+           height: 100vh;
+           background-position: center;
+         }
+ h1
+        {
+        color: white;
+        }
+
+.row {
+  padding: 0;
+  margin: 0;
+}
+.breakfast{
+  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  border:1px solid black;
+  height:100px;
+
+}
+
+.dinner{
+  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/dinner.jpg");
+  background-size: cover;
+  border:1px solid black;
+  height:100px;
+
+}
+.lunch{
+  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/lunch.jpg");
+  background-size: cover;
+  border:1px solid black;
+  height:100px;
