@@ -14,23 +14,59 @@
   padding: 0;
   margin: 0;
 }
-.breakfast{
+.break{
   background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/breakfast.jpg");
   background-size: cover;
-  border:1px solid black;
-  height:100px;
-
+  margin: 0;
+  padding: 0;
 }
 
-.dinner{
+.breakfast{
+    max-height:100%;
+    max-width: 100%;
+    text-align:center;
+    font-weight: bold;
+    font-size: 30px;
+    padding:40px;
+    margin-top:10px;
+}
+.dinn {
   background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/dinner.jpg");
   background-size: cover;
-  border:1px solid black;
-  height:100px;
 
 }
-.lunch{
+.dinner{
+  max-height:100%;
+  max-width: 100%;
+  text-align:center;
+  font-weight: bold;
+  font-size: 30px;
+  padding:40px;
+  margin-top:10px;
+}
+.lun {
   background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/lunch.jpg");
   background-size: cover;
-  border:1px solid black;
-  height:100px;
+}
+.lunch  {
+  max-height:100%;
+  max-width: 100%;
+  text-align:center;
+  font-weight: bold;
+  font-size: 30px;
+  padding:40px;
+  margin-top:10px;
+}
+.haha {
+  max-height:100%;
+  max-width: 100%;
+  text-align:center;
+  font-weight: bold;
+  font-size: 30px;
+  padding:40px;
+  margin-top:10px;
+}
+
+.well{
+  float: left;
+}
