@@ -183,12 +183,13 @@ h1
         font-size: 25px;
           }
   .fast {
-       background-color: white;
-       padding-top: 60px;
-       max-width:70%;
-       background-position: right;
-       float:right;
-       padding:20px;
+          background-color: white;
+          width: 90%;
+          background-position: center;
+          float:right;
+          padding-top:20px;
+          color:#F15A29;
+          font-size: 30px;
             }
 
   /*.container-fluid {
@@ -205,10 +206,11 @@ h1
     background-color: #F15A29;
     color:white;
     text-align: center;
-    padding-top:80px;
+    padding-top:60px;
     margin:0px;
     height: 35px;
     margin-top: -190px;
+    height: 50vh;
         }
 
 h5        {
