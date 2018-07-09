@@ -1,25 +1,25 @@
-  .banner {
-           background-image:url("file:///home/student/Desktop/Anita/ip2/assets/backgrounds/landing.jpg");
+.banner{
+           background-image:url("../assets/backgrounds/landing.jpg");
            background-size: cover;
            text-align: center;
            height: 100vh;
-           background-position: center;
          }
- h1
+
+h1
         {
         color: white;
         }
 
-.row {
+.row    {
   padding: 0;
   margin: 0;
-}
-.break{
-  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/breakfast.jpg");
+        }
+.break  {
+  background-image: url("../images/breakfast.jpg");
   background-size: cover;
   margin: 0;
   padding: 0;
-}
+      }
 
 .breakfast{
     max-height:100%;
@@ -27,62 +27,68 @@
     text-align:center;
     font-weight: bold;
     font-size: 30px;
-    padding:40px;
+    color: white;
+    padding:70px;
     margin-top:10px;
-}
+      }
 .dinn {
-  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/dinner.jpg");
+  background-image: url("../images/dinner.jpg");
   background-size: cover;
 
-}
+      }
 .dinner{
   max-height:100%;
   max-width: 100%;
   text-align:center;
+  color: white;
   font-weight: bold;
   font-size: 30px;
-  padding:40px;
+  padding:70px;
   margin-top:10px;
-}
+      }
 .lun {
-  background-image: url("file:///home/student/Desktop/Anita/ip2/assets/foodtop/lunch.jpg");
+  background-image: url("../images/lunch.jpg");
   background-size: cover;
-}
+    }
 .lunch  {
   max-height:100%;
   max-width: 100%;
+  color: white;
   text-align:center;
   font-weight: bold;
   font-size: 30px;
-  padding:40px;
+  padding:70px;
   margin-top:10px;
-}
+      }
 .haha {
   max-height:100%;
   max-width: 100%;
   text-align:center;
   font-weight: bold;
   font-size: 30px;
-  padding:40px;
+  padding:50px;
   margin-top:10px;
-}
+      }
 
 .well{
   float: left;
-}
+    }
 .par{
   padding: 40px;
   display:column;
-}
+    }
 
 .button{
   color:rgb(244, 107, 66);
-}
+    }
 
 .B {
-  background-color: red;
-  padding: 10px;
-
+  background-color: rgb(241, 90, 41);
+  padding: 30px;
+    }
+.A {
+  background-color: white;
+  padding: 30px;
 }
 .haha {
         max-height:100%;
@@ -96,4 +102,82 @@
   .Drinks{
         padding : 0;
         margin : 0;
+        display: column;
+        float: right;
+        }
+  .Overlay  {
+        background-image:url("../images/foodsBg.jpg");
+        background-size: cover;
+        text-align: center;
+        height: 80vh;
+        background-position: center;
+        padding:0px;
+        margin:0px;
+            }
+  .Burger {
+              background-color:white;
+
+          }
+  .nav a {
+        display:inline;
+        float: right;
+        padding: 60px;
+        text-align: right;
+        font-size: 25px;
+        float: right;
+          }
+  .fast {
+       background-color: white;
+       padding-top: 60px;
+       max-width:70%;
+       background-position: right;
+
+
+       float:right;
+            }
+
+  .container-fluid {
+       background-size:weight:70%;
+          }
+   #info{
+       padding-bottom: 0.01%;
+       margin-top: 10%;
+       box-shadow: 0 0 16px #888888;
+            }
+  .menu     {
+    background-color: #F15A29;
+    color:white;
+    text-align: center;
+    padding-top: 60px;
+    margin:0px;
+    height: 300px;
   }
+
+h5        {
+  font-size: 40px;
+}
+  .Salad  {
+              background-image: url("../images/subscribe.jpg");
+              align-content: center;
+              text-align: center;
+              height: 100vh;
+              background-position: center;
+              background-repeat: no-repeat;
+              padding: 0px;
+            }
+
+  #subscribe {
+            text-align: center;
+            font-size: 30px;
+          }
+  button {
+          background-color: #F15A29;
+
+        }
+  /*.Salad .button {
+        text-align: center;*/
+  }
+  .footer  {
+        padding: 0px;
+        margin:0px;
+        }
