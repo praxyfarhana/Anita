@@ -205,9 +205,10 @@ h1
     background-color: #F15A29;
     color:white;
     text-align: center;
-    padding-top: 50px;
+    padding-top:80px;
     margin:0px;
-    height: 400px;
+    height: 35px;
+    margin-top: -190px;
         }
 
 h5        {
