@@ -4,6 +4,9 @@
       padding-left: 10px;
       color:white;
 }
+body{
+      font:Nunito;
+}
 
 .sidenav {
    height: 100%;
@@ -218,10 +221,11 @@ h5        {
               background-position: center;
               background-repeat: no-repeat;
               padding-bottom: 20%;
+
             }
   .contacts {
               align-content: center;
-              padding-top: 260px;
+              padding-top:260px;
   }
 
   #subscribe {
@@ -237,6 +241,7 @@ h5        {
   .footer  {
         padding-top:0px;
         margin:0px;
+        height:
         }
   h6    {
     font-size: 20px;
